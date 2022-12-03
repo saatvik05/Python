@@ -18,10 +18,6 @@ else:
     else:
         print('Not Weird')
 
-    
-
-
-
 
 
 
